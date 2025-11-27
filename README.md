@@ -1,0 +1,13 @@
+# Calculator
+
+A simple calculator built with HTML, CSS, Bootstrap, and JavaScript.
+
+## Features
+- Dark theme
+- Basic operations (+, −, ×, ÷)
+- Square and cube functions
+- Responsive design
+
+## How to Run
+1. clone the project.
+2. Open `index.html` in your browser.
